@@ -28,7 +28,10 @@ has 0+ links, has no data
 ##### split block
 has links(point to subblocks, has data)
 
+# Store Abstracion
+dag store, blockstore, datastore, file systems
 
 # IPLD
 https://ipld.io/<br>
 https://github.com/ipld/ipld
+

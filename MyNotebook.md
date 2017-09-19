@@ -27,3 +27,8 @@ has 0+ links, has no data
 
 ##### split block
 has links(point to subblocks, has data)
+
+
+# IPLD
+https://ipld.io/<br>
+https://github.com/ipld/ipld

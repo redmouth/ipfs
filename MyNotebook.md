@@ -37,6 +37,9 @@ datastore: datastore is a generic layer of abstraction for data store and databa
 https://github.com/ipfs/go-datastore<br>
 
 
+# IPFS vs SWARM
+https://ethereum.stackexchange.com/questions/2138/what-is-the-difference-between-swarm-and-ipfs
+
 # IPLD
 https://ipld.io/<br>
 https://github.com/ipld/ipld

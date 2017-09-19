@@ -27,7 +27,7 @@ http://127.0.0.1:5001/webui
 ##### directory
 has 0+ links, has no data<br>
 Qme8TAD6uZ3wQbvVQJK8CWo4PrzgfiYrVHzBkz4Twffe6Z is hash of directory which contains file gpu.jpg(QmTiNTPXNQspkhCtM4X2xC7k8dedRVsk2UooLirhbfCe5g) and index.html. gpu.jpg is split into 3 blocks.<br>
-$ ipfs dag get Qme8TAD6uZ3wQbvVQJK8CWo4PrzgfiYrVHzBkz4Twffe6Z
+$ ipfs dag get Qme8TAD6uZ3wQbvVQJK8CWo4PrzgfiYrVHzBkz4Twffe6Z<br>
 {"data":"CAE=","links":[{"Cid":{"/":"QmTiNTPXNQspkhCtM4X2xC7k8dedRVsk2UooLirhbfCe5g"},"Name":"gpu.jpg","Size":621763},{"Cid":{"/":"QmYKz5bb4kQiLzGKF4xLmNYSLUdKcbFGbSWSQzLmJ5Wok6"},"Name":"index.html","Size":635}]} <br>
 for a directroy, the name of each links(points to its children file) is non-empty. <br>
 

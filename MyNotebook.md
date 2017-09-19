@@ -17,3 +17,13 @@ at ~/.ipfs. To change the repo location, set the $IPFS_PATH environment variable
 # problems
 ##### reorganize exchanges, dag and blockstore
 https://github.com/ipfs/notes/issues/255
+
+# ipfs browser
+http://127.0.0.1:5001/webui
+
+# Object types
+##### directory
+has 0+ links, has no data
+
+### split block
+has links(point to subblocks, has data)

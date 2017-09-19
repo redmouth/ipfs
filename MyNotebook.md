@@ -29,8 +29,8 @@ has 0+ links, has no data
 has links(point to subblocks, has data)
 
 # Store Abstracion
-dag store, blockstore, datastore, file systems
-. blockstore: Package blockstore implements a thin wrapper over a datastore, giving a clean interface for Getting and Putting block objects <br>
+dag store, blockstore, datastore, file systems<br>
+blockstore: Package blockstore implements a thin wrapper over a datastore, giving a clean interface for Getting and Putting block objects <br>
 
 # IPLD
 https://ipld.io/<br>

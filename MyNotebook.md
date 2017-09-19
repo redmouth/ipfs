@@ -55,7 +55,7 @@ datastore: datastore is a generic layer of abstraction for data store and databa
 https://github.com/ipfs/go-datastore<br>
 
 # BitSwap
-Bitswap is the data trading module for ipfs, it manages requesting and sending blocks to and from other peers in the network. Bitswap has two main jobs, the first is to acquire blocks requested by the client from the network. The second is to judiciously send blocks in its posession to other peers who want them.
+Bitswap is the data trading module for ipfs, it manages requesting and sending blocks to and from other peers in the network. Bitswap has two main jobs, the first is to acquire blocks requested by the client from the network. The second is to judiciously send blocks in its posession to other peers who want them.<br>
 Interpretation: Sentence segmentation<br> 
 [the first is to acquire blocks requested by the client from the network]   =>    [the first is to [[acquire blocks requested by the client] from the network]]
 

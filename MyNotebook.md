@@ -15,5 +15,5 @@ at ~/.ipfs. To change the repo location, set the $IPFS_PATH environment variable
     export IPFS_PATH=/path/to/ipfsrepo
 
 # problems
-##### reorganize exchanges
+##### reorganize exchanges, dag and blockstore
 https://github.com/ipfs/notes/issues/255

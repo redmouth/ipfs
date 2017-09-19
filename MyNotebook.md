@@ -21,6 +21,9 @@ https://ipfs.io/ipfs/QmNZiPk974vDsPmQii3YbrMKfi12KTSNM7XMiYyiea4VYZ/example#/ipf
 $ ipfs pin rm -r ${hash}<br>
 $ ipfs block rm ${hash}
 
+##### add block(directory or splitted block)
+$ ipfs pin add ${hash}
+
 # problems
 ##### reorganize exchanges, dag and blockstore
 https://github.com/ipfs/notes/issues/255

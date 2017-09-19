@@ -15,7 +15,7 @@ at ~/.ipfs. To change the repo location, set the $IPFS_PATH environment variable
     export IPFS_PATH=/path/to/ipfsrepo
 
 ##### remove directory block
-https://ipfs.io/ipfs/QmNZiPk974vDsPmQii3YbrMKfi12KTSNM7XMiYyiea4VYZ/example#/ipfs/QmP8WUPq2braGQ8iZjJ6w9di6mzgoTWyRLayrMRjjDoyGr/pinning/readme.md
+https://ipfs.io/ipfs/QmNZiPk974vDsPmQii3YbrMKfi12KTSNM7XMiYyiea4VYZ/example#/ipfs/QmP8WUPq2braGQ8iZjJ6w9di6mzgoTWyRLayrMRjjDoyGr/pinning/readme.md<br>
 $ ipfs pin rm -r ${hash}
 
 

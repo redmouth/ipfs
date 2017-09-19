@@ -31,7 +31,8 @@ has links(point to subblocks, has data)
 # Store Abstracion
 dag store, blockstore, datastore, file systems<br>
 blockstore: Package blockstore implements a thin wrapper over a datastore, giving a clean interface for Getting and Putting block objects <br>
-datastore: datastore is a generic layer of abstraction for data store and database accesshttps://github.com/ipfs/go-datastore<br>
+datastore: datastore is a generic layer of abstraction for data store and database access
+https://github.com/ipfs/go-datastore<br>
 
 
 # IPLD
